@@ -1,0 +1,1 @@
+add some dsp calculations including: add hamming window, calculate the energy of a frame, calculate the over-zero rate of a frame.
